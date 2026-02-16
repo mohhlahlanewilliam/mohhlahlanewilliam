@@ -1,4 +1,12 @@
-## Hi there 👋
+## Personal Information 👤
+
+## Education 👨‍🎓
+
+## Skills & Interests 💡
+
+## Projects and Competitions 🧑🏻‍💻
+
+## Affiliations & Memberships
 
 <!--
 **mohhlahlanewilliam/mohhlahlanewilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
