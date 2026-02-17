@@ -33,32 +33,42 @@ I’m passionate about building practical software solutions and growing my skil
 - Data extraction, transformation, and loading (ETL)  
 - Basic machine learning  
 
-### Academic & Analytical Skills
+### Soft Skills
 - Problem solving  
 - Logical reasoning  
 - Communication 
 - Time management
 - Leadership
-- Technical communincation 
+- Adaptability
 
 ## Projects & Competitions 🧑🏽‍💻
 
 ### BudgetWyze — Student Budgeting App
-A budget app built with my team to help students manage money better.
-- Track income and expenses
-- Set budgets and monitor spending
-- Built collaboratively as a team project
+A budgeting app built with my team to help students manage their money more effectively.
+
+**My role:** Software development (coding and implementation)
+
+**Key features:**
+- Track income and expenses  
+- Set budgets and monitor spending  
+- Built collaboratively as a team project  
+
+**Outcomes:**
+- Delivered a working student-focused budgeting solution with core money-tracking features.  
+- Strengthened my practical software development skills and teamwork in a real project setting. 
 
     [![BudgetWyze Repo](https://img.shields.io/badge/BudgetWyze-brightgreen?style=for-the-badge)](https://github.com/mohhlahlanewilliam/BudgetWyse)
 
 
 
-### High Performance Computing Cluster Competition (CHPCC) — 2024
- High Performance Computing Cluster Competition is an intense, hands-on event where student teams design, build, and optimize small supercomputing clusters within a strict budget and power limit
-- I formed and led a 4-person team of second-year Computer Science students.
-- We competed over a span of 6 months which was from July to December against 24 teams across South Africa.
-- Our team achieved a Top 10 national placement.
-- National rounds were hosted in Gqeberha (December).
+### High Performance Computing Cluster Competition (CHPCC) — 2024 (Jul–Dec)
+- Formed and led a 4-person team of second-year Computer Science students to design, build, and optimise a small HPC cluster under strict budget and power constraints.
+- Owned the cluster configuration and setup, including OS installation, network configuration, software stack/environment setup, and performance tuning to maximise throughput per watt.
+- Competed over 6 months against 24 teams across South Africa; advanced to the national rounds hosted in Gqeberha (December).
+
+
+- **Outcome:** Achieved a Top 10 national placement, delivering a stable, competition-ready cluster and contributing directly to performance and reliability in the final rounds.
+
 
 ---
 
