@@ -1,6 +1,6 @@
 # William Mohlahlane
 
-Aspiring software developer | BSc (Hons) Computer Science @ University of the Western Cape
+Aspiring software developer | BSc (Hons) Computer Science at University of the Western Cape
 
 ---
 
