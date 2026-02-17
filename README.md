@@ -1,45 +1,64 @@
-## Personal Information 👤
+# William Mohlahlane
 
-My name is William Mohlahlane, I am doing Bachelor of Science (Honours) in Computer Science at the University of the Western Cape. I am an aspiring Software Developer
+Aspiring software developer | BSc (Hons) Computer Science @ University of the Western Cape
+
+---
+
+## About Me 👤
+My name is William Mohlahlane, currently pursuing a Bachelor of Science (Honours) in Computer Science at the University of the Western Cape.  
+
+I’m interested in building practical software solutions and growing my skills in cloud and AI.
+
+---
 
 ## Education 👨‍🎓
+- **University of the Western Cape (UWC)** — **BSc (Hons) Computer Science** *(2026 – Present)*
+- **University of the Western Cape (UWC)** — **BSc Computer Science (Cum Laude)** *(2022 – 2025)*
+- **Zonkizizwe Secondary School** — **National Senior Certificate (Matric)** *(2022)*
 
-**Zonkizizwe Secondary School**  
-Matric _2022 - 2021_
-
-**Univesity of the Western Cape**  
-BSc Computer Science   _2022 - 2025_
-
-**University of the Western Cape**  
-BSc (hons) Computer Science  _2026 - Present_
 
 ## Skills & Interests 💡
-My interests include: 
- - Cloud Computing
- - Artificial Intelligence
- - Mathematics
 
- My Skills:
- - Technical Skills:
-    - Python prgramming
-     - Data extraction, transformation, and loading (ETL)
-     - Basic Machine learning
+### Interests
+- Cloud Computing  
+- Artificial Intelligence  
+- Mathematics  
 
-- Academic & Anakytic Skills:
-    - Problem Solving 
-    - Logical reasoning 
-    - Communication
+### Technical Skills
+- Python programming  
+- Data extraction, transformation, and loading (ETL)  
+- Basic machine learning  
 
+### Academic & Analytical Skills
+- Problem solving  
+- Logical reasoning  
+- Communication  
 
-## Projects and Competitions 🧑🏻‍💻
-**Comptetitions:**   
-_High Peformance Computing Cluster Competition (CHPCC)_   
-In 2024 I gathered a team of 3 second year computing science studetnts and we participated in the HPCC Competition. The competitions spanned for 6 months, it started in June/July where the was a total of 24 teams from across various insitutions in South Africa. My team and competed in and we made it to the Top 10 teams nationally. The national roaunds was in hosting in December at Gqeberha but unfortunateyl we did not make it to the top 3.
+## Projects & Competitions 🧑🏽‍💻
 
-
-
-## Affiliations & Memberships
-**UWC IT Society**  
-Member 
+### BudgetWyze — Student Budgeting App
+A budget app built with my team to help students manage money better.
+- Track income and expenses
+- Set budgets and monitor spending
+- Built collaboratively as a team project
 
 
+### High Performance Computing Cluster Competition (CHPCC) — 2024
+ An intense, hands-on event where student teams design, build, and optimize small supercomputing clusters within a strict budget and power limit
+- Formed and led a 4-person team of second-year Computer Science students.
+- Competed over a span of 6 months which was from July to December against 24 teams across South Africa.
+- Achieved a Top 10 national placement.
+- National rounds were hosted in Gqeberha (December).
+
+---
+
+## Affiliations & Memberships 🤝
+- **UWC IT Society** — Member
+
+---
+
+## Contact 📫
+- LinkedIn: 
+- Email: 
+
+---
