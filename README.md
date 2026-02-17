@@ -1,6 +1,6 @@
 # William Mohlahlane
 
-Aspiring software developer | BSc Computer Science Graduae [Cum Laude] | BSc (Hons) Computer Science student
+Aspiring software developer | BSc Computer Science Graduate [Cum Laude] | BSc (Hons) Computer Science student
 
 ---
 
@@ -71,6 +71,8 @@ A budgeting app built with my team to help students manage their money more effe
 
 
 ---
+## Publications
+No publications yet
 
 ## Affiliations & Memberships 🤝
 
