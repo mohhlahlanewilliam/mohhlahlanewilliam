@@ -4,7 +4,7 @@ Aspiring software developer | BSc (Hons) Computer Science @ University of the We
 
 ---
 
-## About Me 👤
+## Personal introduction 👤
 My name is William Mohlahlane, currently pursuing a Bachelor of Science (Honours) in Computer Science at the University of the Western Cape.  
 
 I’m interested in building practical software solutions and growing my skills in cloud and AI.
